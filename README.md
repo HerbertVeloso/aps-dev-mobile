@@ -24,9 +24,9 @@ Umas das atividades lúdicas mais socialmente praticadas são jogos de mesa: car
 ## Detalhes da Aplicação:
 	
 **Para esta finalidade criamos um aplicativo com estas especificações:**
-[x] Campos textuais que exibirão orientações e os resultados dos processos.
-[x] Campo textual que indica a quantidade de dados que serão lançados.
-[x] Botões que adicionam ou retiram dados a serem jogados. 
+- [x] Campos textuais que exibirão orientações e os resultados dos processos.
+- [x] Campo textual que indica a quantidade de dados que serão lançados.
+- [x] Botões que adicionam ou retiram dados a serem jogados. 
 (Nota: restringimos o número mínimo de dados a somente 1 dado e máximo de 5 dados)
-[x] Botão Jogar que efetivamente executa o processo a partir do número determinado de dados a serem lançados.
-[x] Botão Limpar que retorna à condição inicial de somente um dado e limpa qualquer resultado já registrado em tela.
+- [x] Botão Jogar que efetivamente executa o processo a partir do número determinado de dados a serem lançados.
+- [x] Botão Limpar que retorna à condição inicial de somente um dado e limpa qualquer resultado já registrado em tela.
